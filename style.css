@@ -10,16 +10,3 @@ span{
   vertical-align: top;
   min-width: 100px;
 }
-#ajax{
-  padding: 10px;
-  position: fixed;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%,-50%);
-  text-align: center;
-  background-color: wheat;
-  opacity: .5;
-  border: 1px solid brown;
-  border-radius: 8px;
-  
-}
