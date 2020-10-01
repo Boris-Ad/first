@@ -20,5 +20,6 @@ span{
   background-color: wheat;
   opacity: .5;
   border: 1px solid brown;
+  border-radius: 8px;
   
 }
